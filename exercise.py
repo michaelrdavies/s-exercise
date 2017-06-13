@@ -22,7 +22,7 @@ REQUIREMENTS:
   (http://boto3.readthedocs.io/en/latest/guide/configuration.html#shared-credentials-file) 
 
 AUTHOR:
-Michael Davies (davies.mike@gmail.com)
+
 
 usage:
 '''
